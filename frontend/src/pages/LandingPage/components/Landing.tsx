@@ -32,7 +32,7 @@ const Landing: React.FC = () => {
           <img src={Dots} alt="Decorative Dots" className="h-full max-w-none" style={{ width: '70%', maxHeight: '100%' }} />
         </div>
 
-        {/* Squiggle SVG Positioned to Overlap Dots */}
+{/*         {/* Squiggle SVG Positioned to Overlap Dots */}
         <div className="absolute right-40 top-1/2 transform -translate-y-1/2 flex items-center justify-end overflow-hidden">
           <img src={Squiggle} alt="Decorative Squiggle" className="h-20 max-w-none" style={{ width: '50%', marginTop: '10%' }} />
         </div>
@@ -45,7 +45,7 @@ const Landing: React.FC = () => {
         <div className="absolute right-[34rem] top-1/4 transform -translate-y-1/2 w-48 h-16 bg-white shadow-md rounded-lg border border-1 border-[#F1A400] flex items-center justify-center">
           <img src={Chat} alt="Chat Icon" className="h-6 mr-2" />
           <span className="text-gray-700 font-medium">∞ posts</span>
-        </div>
+        </div> */}
       </div>
     </section>
   );
