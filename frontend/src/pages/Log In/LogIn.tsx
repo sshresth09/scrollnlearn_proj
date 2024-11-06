@@ -34,7 +34,7 @@ const LoginPage: React.FC = () => {
             }
         } catch (error) {
             console.error("There was an error logging in the user:", error);
-            alert("Error during login. Please try again.");
+            alert(error);
         }
     };
 
