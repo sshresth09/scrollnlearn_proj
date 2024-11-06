@@ -2,9 +2,9 @@
 import React from 'react';
 import Check from './assets/Check.svg';
 import Dots from './assets/Dots.svg';
-import Squiggle from './assets/Squiggle.svg';
-import Chat from './assets/Chat.svg';
-import Members from './assets/Members.svg';
+// import Squiggle from './assets/Squiggle.svg';
+// import Chat from './assets/Chat.svg';
+// import Members from './assets/Members.svg';
 
 const Landing: React.FC = () => {
   return (
