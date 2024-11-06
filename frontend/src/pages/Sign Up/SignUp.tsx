@@ -43,7 +43,7 @@ const SignUpPage: React.FC = () => {
             }
         } catch (error) {
             console.error("There was an error registering the user:", error);
-            alert("Error during registration. Please try again.");
+            alert(error);
         }
     };
     
