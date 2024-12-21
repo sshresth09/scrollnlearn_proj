@@ -1,1 +1,1 @@
-## ScrollnLearn: A personalized learnig platform
+## ScrollnLearn: A personalized learning platform
